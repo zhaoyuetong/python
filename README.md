@@ -1,2 +1,2 @@
 # python
-Just another repository
+Hi Humans!
