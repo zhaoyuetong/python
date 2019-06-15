@@ -1,0 +1,11 @@
+相关网站：
+http://www.pianshen.com/article/801995911/
+https://www.jianshu.com/p/b0a0bb2bb97d
+https://blog.csdn.net/yang_bingo/article/details/80715943
+https://www.jianshu.com/p/e4daccd139d2
+文件说明：
+run.py文件：数据爬取与清洗
+deal_csv.py：csv文件合并
+其余.py文件：数据分析
+
+csv_to_csv.csv文件:北京各个区数据汇总
